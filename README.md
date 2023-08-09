@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anunihu Chukwuebuka James
-- 👀 I’m interested in Front-End web development
-- 🌱 I’m currently learning REACT
-- 💞️ I’m looking to collaborate on front end webdevelopment projects, Hackathons, internships and challenges
+- 👀 I’m interested in Front-End and Back-End web development
+- 🌱 I’m currently learning REACT-Native
+- 💞️ I’m looking to take on fulltime jobs, collaborate on webdevelopment projects, Hackathons, internships and challenges
 - 📫 How to reach me: anunihuebuka01@gmail.com
 
 <!---
